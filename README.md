@@ -1,5 +1,6 @@
 # hakaton-prerequisites
 
+## Frontend
 Установить:
 + [node.js](https://nodejs.org/) 10.15.3 LTS вместе с npm
 
