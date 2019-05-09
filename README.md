@@ -11,4 +11,5 @@
 + [Vue.js](https://cli.vuejs.org/guide/installation.html) 
   ~~~
   $ npm install -g @vue/cli
+  $ vue --version
   ~~~
