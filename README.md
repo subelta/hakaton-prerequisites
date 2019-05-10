@@ -1,12 +1,10 @@
 # hakaton-prerequisites
 
 ## Frontend
-Установить:
+Установить приложение:
 + [VS Code](https://code.visualstudio.com/)  
 + [WebStorm](https://www.jetbrains.com/webstorm/)
-
-
-
+Установить пакеты:
 + [node.js](https://nodejs.org/) 10.15.3 LTS вместе с npm
 
   Проверить: 
@@ -21,10 +19,7 @@
   ~~~
   ---
 ## Backend
-Установить:
+Установить приложения:
 + [Pycharm](https://www.jetbrains.com/pycharm/)
-
-
-
-
-+ Python 3.6-3.7
+Установить пакеты:
++ Python 3.6(3.7)
