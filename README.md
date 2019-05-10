@@ -48,7 +48,7 @@ vue create hello-world
 + [Pycharm](https://www.jetbrains.com/pycharm/)
 
 Установить пакеты:
-+ Python 3.6(3.7)
++ Python 3.6(3.7), pip
 
 ### Создание проекта
 создать 
