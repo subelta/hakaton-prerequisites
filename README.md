@@ -39,6 +39,8 @@ vue create hello-world
  >(*) Lint on save
  > In dedicated config files
 ~~~
+
+[Vuetify](https://www.youtube.com/watch?v=taLKQfoS87I&list=PL4cUxeGkcC9iCKx06qSncuvEPZ7x1UnKD&index=6&t=0s) или Bootstrap vue
 Положить в репозиторий к джанго(перед этим удалить (в папке с VUE) .gitignore, .git и readme) 
 и положить node_modules в .gitignore
 
