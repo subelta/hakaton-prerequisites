@@ -65,4 +65,10 @@ vue create hello-world
 + Склонировать репозиторий
 + Cоздать venv и активировать (venv/Scripts/activate.bat)
 + `pip install requirements.txt`
-+ npm install package.json (возможно cd в директорию) 
++ `python manage.py makemigrations`
++ `python manage.py migrate`
++ `npm install package.json` (возможно cd в директорию) 
+
+Если не находит таблицу, то
+
+`python manage.py migrate --run-syncdb`
