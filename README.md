@@ -4,6 +4,8 @@
 Установить приложения:
 + [VS Code](https://code.visualstudio.com/)  
 + [WebStorm](https://www.jetbrains.com/webstorm/)
++ Chrome
++ Vue Devtools (Расширение для хрома)
 
 Установить пакеты:
 + [node.js](https://nodejs.org/) 10.15.3 LTS вместе с npm
